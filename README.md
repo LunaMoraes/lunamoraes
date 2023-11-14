@@ -19,10 +19,6 @@
     alt="Logo javascript"/></code>
 <code><img
     height="30"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/lua.png"
-    alt="Logo lua"/></code>
-<code><img
-    height="30"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"
     alt="Logo java"/></code>
 <code><img
@@ -49,7 +45,7 @@
 ## Status
 
 <a href="https://github.com/Gurupreet" title="ilustração do mapeamento de linguagens">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sovietlunox&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sovietlunox&theme=dark&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
 </a>
 
 <a href="https://github.com/Gurupreet" title="ilustração do mapeamento do perfil">
