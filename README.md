@@ -55,13 +55,4 @@
 <a href="https://github.com/Gurupreet" title="ilustração do mapeamento do perfil">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sovietlunox&show_icons=true&theme=dark&line_height=27" alt="sovietlunox github stats"/>
 </a>
-
-
-
 <br>
-
-## Rede sociais
-🐦 [twitter]: https://twitter.com/soviettlunox
-📺 [youtube]: https://www.youtube.com/user/sovietlunox/
-📷 [instagram]: https://www.instagram.com/sovietlunox/
-👔 [linkedin]: https://www.linkedin.com/in/luna.belfort/
