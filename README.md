@@ -3,7 +3,7 @@
 <img align="right" width="300" src="https://media.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif" />
 <p align="left"> 
  Oi, meu nome é Luna e sou uma desenvolvedora de software com boa experiência em <strong>gamedeev</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+ Tentando terminar a faculdade e conseguir um emprego de dev :)
 </p>
 
 <p align="left">
