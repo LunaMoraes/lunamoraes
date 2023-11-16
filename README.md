@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Javascript, Lua.**
+  🦄 Principais Linguagens: Javascript, Lua.
 </p>
 
 
