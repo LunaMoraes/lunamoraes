@@ -43,11 +43,11 @@
 
 ## Status
 
-<a href="https://github.com/Gurupreet" title="ilustração do mapeamento de linguagens">
+<a href="https://github.com/sovietlunox" title="ilustração do mapeamento de linguagens">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sovietlunox&theme=dark&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
 </a>
 
-<a href="https://github.com/Gurupreet" title="ilustração do mapeamento do perfil">
+<a href="https://github.com/sovietlunox" title="ilustração do mapeamento do perfil">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sovietlunox&show_icons=true&theme=dark&line_height=27" alt="sovietlunox github stats"/>
 </a>
 <br>
