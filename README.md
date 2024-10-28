@@ -1,17 +1,16 @@
-# Olá mundo
+# Hello World
 
 <img align="right" width="300" src="https://media.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif" />
 <p align="left"> 
- Oi, meu nome é Luna e sou uma desenvolvedora de software com boa experiência em <strong>gamedeev</strong>.<br>
- Tentando terminar a faculdade e conseguir um emprego de dev :)
+ Hi! My name is Luna and I'm a experienced developer with a good focus in <strong>gamedeev</strong>.<br>
 </p>
 
 <p align="left">
-  🦄 Principais Linguagens: Javascript, Lua.
+  🦄 Main languages: Javascript, Lua.
 </p>
 
 
-## Linguagens e ferramentas
+## Languages and tools
 <code><img
     height="30"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
