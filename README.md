@@ -2,7 +2,7 @@
 
 <img align="right" width="300" src="https://media.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif" />
 <p align="left"> 
- Hi! My name is Luna and I'm a experienced developer with a good focus in <strong>gamedeev</strong>.<br>
+ Hi! My name is Luna and I'm a experienced developer with a lot of focus in <strong>gamedev</strong>.<br>
 </p>
 
 <p align="left">
