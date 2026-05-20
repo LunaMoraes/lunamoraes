@@ -42,10 +42,6 @@
 
 ## Status
 
-<a href="https://github.com/LunaMoraes" title="ilustração do mapeamento de linguagens">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunaMoraes&theme=dark&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
-</a>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunamoraes)](https://github.com/anuraghazra/github-readme-stats)
+![GitHubCard](https://githubcard.com/LunaMoraes.svg?d=r-HRRMh0)
 
 <br>
