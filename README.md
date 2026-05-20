@@ -46,7 +46,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunaMoraes&theme=dark&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
 </a>
 
-<a href="https://github.com/LunaMoraes" title="ilustração do mapeamento do perfil">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=LunaMoraes&show_icons=true&theme=dark&line_height=27" alt="LunaMoraes github stats"/>
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunamoraes)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
